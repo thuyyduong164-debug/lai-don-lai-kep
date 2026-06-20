@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("Ảnh chụp màn hình 2026-06-20 144845.png")
+st.image("z7957096411053_14f8c9756d2851bafcefe616277547f5")
 # Tiêu đề ứng dụng
 st.title("💰 Ứng dụng tính tiền gửi tiết kiệm_Thuy Duong")
 
